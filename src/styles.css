@@ -38,6 +38,10 @@ form {
     border-width: 0px;
 }
 
+.search-bar:focus {
+    border-width: 0px;
+}
+
 .submit {
     margin: 10px;
     width: 100px;
